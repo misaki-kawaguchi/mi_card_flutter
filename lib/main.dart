@@ -16,7 +16,14 @@ class MyApp extends StatelessWidget {
               CircleAvatar(
                 radius: 50.0,
                 backgroundImage: AssetImage('images/misaki.jpg'),
-              )
+              ),
+              Text(
+                'Misaki Kawaguchi',
+                style: TextStyle(
+                  fontSize: 40.0,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
             ],
           ),
         ),
