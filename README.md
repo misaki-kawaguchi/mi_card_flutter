@@ -25,4 +25,5 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+## 作成したもの
+<img src="https://user-images.githubusercontent.com/60394359/149385260-be57d670-590b-4ef7-9e26-ef1879f577c1.png" width="300">
